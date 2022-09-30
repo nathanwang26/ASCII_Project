@@ -1,0 +1,15 @@
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/bin/Debug/net6.0/ASCII_Art
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/bin/Debug/net6.0/ASCII_Art.deps.json
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/bin/Debug/net6.0/ASCII_Art.runtimeconfig.json
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/bin/Debug/net6.0/ASCII_Art.dll
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/bin/Debug/net6.0/ASCII_Art.pdb
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/ASCII_Art.csproj.AssemblyReference.cache
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/ASCII_Art.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/ASCII_Art.AssemblyInfoInputs.cache
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/ASCII_Art.AssemblyInfo.cs
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/ASCII_Art.csproj.CoreCompileInputs.cache
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/ASCII_Art.dll
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/refint/ASCII_Art.dll
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/ASCII_Art.pdb
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/ASCII_Art.genruntimeconfig.cache
+/Users/nathanwang/version_control/CSharp_Projects/ASCII_Art/obj/Debug/net6.0/ref/ASCII_Art.dll
